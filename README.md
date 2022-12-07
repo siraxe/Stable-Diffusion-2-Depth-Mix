@@ -2,7 +2,8 @@
  Simpler install to test out SD2 depth model + extra mix feature test
 
 # First install
-1.Python and Git
+1. Python - 
+2. Git - https://git-scm.com/downloads
 
 # Initial setup
 + **0_install_venv_modules.bat** - it will setup environment and required modules
