@@ -1,5 +1,5 @@
 # Stable-Diffusion-2-Depth-Mix
- Simpler install to test out SD2 depth model + extra mix feature test
+ Simpler install on windows to test out SD2 depth model + extra mix depth feature test
 
 # First install
 1. Python - https://www.python.org/downloads/
