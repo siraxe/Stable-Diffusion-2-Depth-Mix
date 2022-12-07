@@ -1,2 +1,4 @@
 venv/
 stablediffusion/
+midas_models/*
+midas_models/!download.py
