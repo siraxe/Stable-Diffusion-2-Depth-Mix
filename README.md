@@ -2,7 +2,7 @@
  Simpler install to test out SD2 depth model + extra mix feature test
 
 # First install
-1. Python - 
+1. Python - https://www.python.org/downloads/
 2. Git - https://git-scm.com/downloads
 
 # Initial setup
